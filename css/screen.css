@@ -212,7 +212,7 @@ h1{
   font-size: 1.50em;
   font-family: 'Merriweather', serif;
   display: block;
-  background-color: grey;
+  background-color: LightSlateGray;
   color:white;
   padding: 0.70em;
   width:97.5%;
@@ -223,7 +223,7 @@ p{
   text-align: center;
   font-size: 0.75em;
   font-family: 'Merriweather', serif; 
-  background-color: LightSlateGray;
+  background-color: grey;
   color: white;
   padding: 0.78em;
   width:99%;
